@@ -1,0 +1,1 @@
+print("Dette er øving 1.")
